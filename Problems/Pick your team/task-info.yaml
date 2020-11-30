@@ -97,6 +97,12 @@ files:
         }
     }
   learner_created: false
+- name: src/Empty.java
+  visible: true
+  learner_created: true
+- name: src/Max.java
+  visible: true
+  learner_created: true
 feedback_link: https://hyperskill.org/learn/step/3329#comment
 status: Solved
 feedback:
